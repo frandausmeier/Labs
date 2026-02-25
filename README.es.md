@@ -1,4 +1,4 @@
-<div align="center"> <img src="..."> </div>
+<div align="center"> <img src="https://github.com/frandausmeier/Labs/blob/main/resources/images/labs_banners/labs_banner_esp.jpg?raw=true"> </div>
 
 <br>
 
