@@ -3,7 +3,7 @@
 
 <br>
 
-> <p> <span> Español - ESP </span> | <a href="https://github.com/franciscodausmeier/Labs/blob/main/Jeremy's_IT_Lab/CCNA_200-301/README.md"> Inglés - ING <a/>. </p>
+> <p> <span> Español - ESP </span> | <a href="./README.md"> Inglés - ING <a/>. </p>
 
 ---
 

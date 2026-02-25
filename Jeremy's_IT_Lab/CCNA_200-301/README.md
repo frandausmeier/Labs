@@ -4,7 +4,7 @@
 
 <br>
 
-> <p> <span> English - ENG </span> | <a href="https://github.com/franciscodausmeier/Labs/blob/main/Jeremy's_IT_Lab/CCNA_200-301/README.es.md"> Spanish - SPA <a/>. </p>
+> <p> <span> English - ENG </span> | <a href="./README.es.md"> Spanish - SPA <a/>. </p>
 
 ---
 

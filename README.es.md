@@ -16,7 +16,7 @@
 
 <br>
 
-- [Jeremy's IT Lab](./Jeremy's_IT_Lab/README.md).
+- [Jeremy's IT Lab](./Jeremy's_IT_Lab/README.es.md).
 
 <br>
 
