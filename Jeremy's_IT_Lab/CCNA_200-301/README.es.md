@@ -1,5 +1,5 @@
 > [Jeremy's IT Lab](../README.es.md) | [Labs](../../README.es.md)
-# Labs de [CCNA v1.1 200-301](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ), Jeremy's IT Lab.
+# Labs de [CCNA v1.1 200-301 Curso Gratuito](https://www.youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ), de Jeremy's IT Lab.
 
 <br>
 

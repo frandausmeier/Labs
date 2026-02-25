@@ -11,7 +11,7 @@
 
 <br>
 
-- [Free CCNA v1.1 200-301](./CCNA_200-301/README.es.md).
+- [CCNA v1.1 200-301 Curso Gratuito](./CCNA_200-301/README.es.md).
 
 <br>
 
