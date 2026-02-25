@@ -8,7 +8,9 @@
 
 <br>
 
-- Estos son todos los _labs_ y actividades hechas de los siguientes cursos y clases.
+<p align=center>
+    Estos son todos los _labs_ y actividades hechas de los siguientes cursos y clases.
+</p>
 
 <br>
 

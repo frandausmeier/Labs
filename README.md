@@ -8,7 +8,10 @@
 
 <br>
 
-- These are all the labs done from the following list of courses or classes.
+
+<p align=center>
+    These are all the labs done from the following list of courses or classes.
+</p>
 
 <br>
 
