@@ -1,7 +1,7 @@
 
 > [Labs](../README.md)
 
-<div align="center"> <img src="../resources/images/notes_banners/jeremy's_it_lab-banner/jeremy's-it-lab_banner.jpg"> </div>
+<div align="center"> <img src="https://github.com/frandausmeier/Notes/raw/main/resources/images/notes_banners/jeremy's_it_lab-banner/jeremy's-it-lab_banner.jpg"> </div>
 
 <br>
 
