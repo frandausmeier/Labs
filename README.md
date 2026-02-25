@@ -2,7 +2,7 @@
 
 <br>
 
-> <p> <span> English - ENG </span> | <a href="https://github.com/franciscodausmeier/Labs/blob/main/README.es.md"> Spanish - SPA <a/>. </p>
+> <p> <span> English - ENG </span> | <a href="./README.es.md"> Spanish - SPA <a/>. </p>
 
 ---
 

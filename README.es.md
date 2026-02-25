@@ -2,7 +2,7 @@
 
 <br>
 
-> <p> <span> Español - ESP </span> | <a href="https://github.com/franciscodausmeier/Labs/blob/main/README.md"> Inglés - ING <a/>. </p>
+> <p> <span> Español - ESP </span> | <a href="./README.md"> Inglés - ING <a/>. </p>
 
 ---
 
