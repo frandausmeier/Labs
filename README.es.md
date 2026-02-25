@@ -9,7 +9,7 @@
 <br>
 
 <p align=center>
-    Estos son todos los _labs_ y actividades hechas de los siguientes cursos y clases.
+    Estos son todos los <i> labs </i> y actividades hechas de los siguientes cursos y clases.
 </p>
 
 <br>
