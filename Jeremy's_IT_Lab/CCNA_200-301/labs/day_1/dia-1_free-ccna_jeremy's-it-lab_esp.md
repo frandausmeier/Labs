@@ -4,7 +4,7 @@
 
 <br>
 
-> <p> <span> Español - ESP </span> | <a href="https://github.com/franciscodausmeier/Labs/blob/main/Jeremy's_IT_Lab/CCNA_200-301/labs/day_1/day-1_free-ccna_jeremy's-it-lab_eng.md"> English - ENG <a/>. </p>
+> <p> <span> Español - ESP </span> | <a href="./day-1_free-ccna_jeremy's-it-lab_eng.md"> English - ENG <a/>. </p>
 
 <br>
 
