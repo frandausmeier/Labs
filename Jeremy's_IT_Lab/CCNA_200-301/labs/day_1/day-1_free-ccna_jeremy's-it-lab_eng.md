@@ -4,7 +4,7 @@
 # Day 1 - Networking Devices
 > Lab 1
 
-> <p> <span> English - ENG </span> | <a href=./README.es.md> Spanish - ESP<a/>. </p>
+> <p> <span> English - ENG </span> | <a href="dia-1_free-ccna_jeremy's-it-lab_esp.md"> Spanish - ESP<a/>. </p>
 
 > [PDF version]().
 
@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  <img src="./attachments/day_1-network_devices.jpg"/>
+  <img src="./attachments/day_1-networking_devices.jpg"/>
 </p>
 
 <br>
