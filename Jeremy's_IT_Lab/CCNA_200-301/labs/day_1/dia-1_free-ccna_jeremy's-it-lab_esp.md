@@ -6,7 +6,7 @@
 
 > <p> <span> Español - ESP </span> | <a href=./day-1_free-ccna_jeremy's-it-lab_eng.md> Inglés - ING<a/>. </p>
 
-> [Versión en PDF]().
+> [Versión en PDF](https://drive.google.com/file/d/1wAI2ekFe3ccWWxUy6c6kLYEe5cxHpNxh/view?usp=sharing).
 
 ---
 

@@ -6,7 +6,7 @@
 
 > <p> <span> English - ENG </span> | <a href="dia-1_free-ccna_jeremy's-it-lab_esp.md"> Spanish - ESP<a/>. </p>
 
-> [PDF version]().
+> [PDF version](https://drive.google.com/file/d/1CZ4cNjsbF-jP5xeazkD38fw155iA2bxe/view?usp=sharing).
 
 ---
 
